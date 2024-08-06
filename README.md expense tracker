@@ -1,0 +1,17 @@
+# Expense Tracker
+
+This is a simple Expense Tracker application built with Python. It allows users to track their daily expenses, categorize them, and view summaries.
+
+## How to Use
+
+1. **Add Expense**: Follow the prompts to add a new expense.
+2. **View Summary**: View total and category-wise expenses.
+3. **Exit**: Exit the application.
+
+## Running the Application
+
+1. Clone or download the repository.
+2. Navigate to the project directory.
+3. Run the application:
+    python expense_tracker.py
+
